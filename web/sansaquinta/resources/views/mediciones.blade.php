@@ -23,9 +23,8 @@
                     <td>Fecha</td>
                     <td>Hora</td>
                     <td>Medidor</td>
-                    <td>Dirección</td>
                     <td>Valor</td>
-                    <td>Tipo de medida</td>
+                    <td>Acciones</td>
                 </tr>
             </thead>
             <tbody id="tbody-medicion">
